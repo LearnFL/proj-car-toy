@@ -6,7 +6,7 @@ When the toy is pushed (on a jolt) it triggers a simple blink code.
 It is very easy to build this toy and it keeps kids engaged.
 
 ### Overview
-[To see the toy in actiob visit my Instagram](www.instagram.com/dennis_r2018)
+[To see the toy in action visit my Instagram](www.instagram.com/dennis_r2018)
 
 ### Screenshots
 ![DCE45C0B-1E24-4C26-B97B-F8E5259179D4](https://user-images.githubusercontent.com/86169204/181388829-a797d055-67de-41d2-b925-b08702ac4f2b.JPEG)
